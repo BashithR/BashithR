@@ -1,3 +1,7 @@
+<h1 align="center">Hi 👋, It's Bashith Ratnaweera</h1>
+<h2 algn="center">Fullstack Dev | UI/UX Designer</h2>
+<h3 align="center">Blending design and code to build software solutions that resonates with the users 😍 and perform efficiently 🚀</h3>
+
 ## Hi there 👋
 
 <!--
