@@ -4,10 +4,14 @@
 <h3 >Blending design and code to build software solutions that resonates with the users 😍 and perform efficiently 🚀</h3>
 </div>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bashithr&label=Profile%20views&color=0e75b6&style=flat" alt="bashithr" /> </p>
+
+- 🌱 I’m currently learning **OOP in Java**
+
+- 👨‍💻 I'm a Second Year Undergraduate at **IIT Sri Lanka.**
+
+- 📫 Reach Me **bashith3214@gmail.com**
 ---
-
-p align="left"> <img src="https://komarev.com/ghpvc/?username=bashithr&label=Profile%20views&color=0e75b6&style=flat" alt="bashithr" /> </p>
-
 ## Hi there 👋
 
 <!--
