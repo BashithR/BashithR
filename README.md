@@ -1,4 +1,4 @@
-<div align="center"></div>
+<div align="center">
 <h1 >Hi 👋, It's Bashith Ratnaweera</h1>
 <h2 >Fullstack Dev | UI/UX Designer</h2>
 <h3 >Blending design and code to build software solutions that resonates with the users 😍 and perform efficiently 🚀</h3>
