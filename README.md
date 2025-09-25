@@ -1,6 +1,12 @@
-<h1 align="center">Hi 👋, It's Bashith Ratnaweera</h1>
-<h2 algn="center">Fullstack Dev | UI/UX Designer</h2>
-<h3 align="center">Blending design and code to build software solutions that resonates with the users 😍 and perform efficiently 🚀</h3>
+<div align="center"></div>
+<h1 >Hi 👋, It's Bashith Ratnaweera</h1>
+<h2 >Fullstack Dev | UI/UX Designer</h2>
+<h3 >Blending design and code to build software solutions that resonates with the users 😍 and perform efficiently 🚀</h3>
+</div>
+
+---
+
+p align="left"> <img src="https://komarev.com/ghpvc/?username=bashithr&label=Profile%20views&color=0e75b6&style=flat" alt="bashithr" /> </p>
 
 ## Hi there 👋
 
