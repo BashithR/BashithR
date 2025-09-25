@@ -28,14 +28,14 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/bashith"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bashith" /></a></p><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bashithr&show_icons=true&locale=en" alt="bashithr" /></p>
+<div align="center">
+  <div style="display: flex; justify-content: center; gap: 10px; width: 100%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=bashithr&show_icons=true&locale=en" alt="bashithr" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bashithr&" alt="bashithr" />
+  </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bashithr&" alt="bashithr" /></p>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=bashithr&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Bashith's Github Stats">
-<br />
-<br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bashithr&layout=compact&theme=dark&bg_color=0A0A0A" alt="Bashith's Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bashithr&layout=compact&theme=dark&bg_color=0A0A0A" alt="Bashith's Top Languages" style="width: 100%;"/>
+</div>
 
 ---
 
