@@ -1,12 +1,15 @@
+<!--Intro-->
+
 <div align="center">
 <h1>Hi 👋, It's Bashith Ratnaweera</h1>
 <h2>Fullstack Dev | UI/UX Designer</h2>
-<h5>Blending design and code to build software solutions that resonates with the users 😍 and perform efficiently 🚀</h5>
+<h5>Blending design and code to build software solutions that resonates with the users and perform efficiently 🚀</h5>
 </div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bashithr&label=Profile%20views&color=0e75b6&style=flat" alt="bashithr" /> </p>
 
 ---
+
 ## About Me
 
 - 🌱 I’m currently learning **OOP in Java**
@@ -17,7 +20,6 @@
 
 - 📫 Reach Me **bashith3214@gmail.com**
 
-  
 ---
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,6 +31,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bashithr&show_icons=true&locale=en" alt="bashithr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bashithr&" alt="bashithr" /></p>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=bashithr&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Bashith's Github Stats">
+<br />
+<br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bashithr&layout=compact&theme=dark&bg_color=0A0A0A" alt="Bashith's Top Languages"/>
+
+---
 
 <!--
 **BashithR/BashithR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
