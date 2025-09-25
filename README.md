@@ -8,11 +8,17 @@
 
 - 🌱 I’m currently learning **OOP in Java**
 
-- 👨‍💻 I'm a Second Year Undergraduate at **IIT Sri Lanka.**
+- 👨‍💻 I'm a Second Year CS Undergraduate at **IIT Sri Lanka.**
 
 - 📫 Reach Me **bashith3214@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/b_kaveen_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="b_kaveen_" height="30" width="40" /></a>
+</p>
+  
 ---
-## Hi there 👋
+
 
 <!--
 **BashithR/BashithR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
