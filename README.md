@@ -1,7 +1,7 @@
 <div align="center">
-<h1 >Hi 👋, It's Bashith Ratnaweera</h1>
-<h2 >Fullstack Dev | UI/UX Designer</h2>
-<h3 >Blending design and code to build software solutions that resonates with the users 😍 and perform efficiently 🚀</h3>
+<h1>Hi 👋, It's Bashith Ratnaweera</h1>
+<h2>Fullstack Dev | UI/UX Designer</h2>
+<h5>Blending design and code to build software solutions that resonates with the users 😍 and perform efficiently 🚀</h5>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bashithr&label=Profile%20views&color=0e75b6&style=flat" alt="bashithr" /> </p>
