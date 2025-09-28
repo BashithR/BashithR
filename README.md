@@ -114,22 +114,26 @@
     </td>
     <td align="center" style="background-color: #31A8FF; padding: 10px; border-radius: 10px;">
       <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="60" height="60" style="background:white; padding:5px; border-radius:8px;"/>
+        <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/refs/heads/main/icons/Photoshop.svg" alt="photoshop" width="60" height="60" style="background:white; padding:5px; border-radius:8px;"/>
       </a>
     </td>
     <td align="center" style="background-color: #000000; padding: 10px; border-radius: 10px;">
       <a href="https://unity.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="60" height="60" style="background:white; padding:5px; border-radius:8px;"/>
+        <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/refs/heads/main/icons/Unity-Light.svg" alt="unity" width="60" height="60" style="background:white; padding:5px; border-radius:8px;"/>
       </a>
     </td>
     <td align="center" style="background-color: #000000; padding: 10px; border-radius: 10px;">
       <a href="https://unrealengine.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="60" height="60" style="background:white; padding:5px; border-radius:8px;"/>
+        <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/refs/heads/main/icons/UnrealEngine.svg" alt="unreal" width="60" height="60" style="background:white; padding:5px; border-radius:8px;"/>
+      </a>
+    </td>
+    <td align="center" style="background-color: #000000; padding: 10px; border-radius: 10px;">
+      <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/refs/heads/main/icons/AfterEffects.svg" alt="aftereffects" width="60" height="60" style="background:white; padding:5px; border-radius:8px;"/>
       </a>
     </td>
   </tr>
 </table>
-
 
 
 <h3 align="left">Support:</h3>
