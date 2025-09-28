@@ -9,7 +9,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bashithr&label=Profile%20views&color=0e75b6&style=flat" alt="bashithr" /> </p>
 
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> About Me
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35px" height="35px" align="center"> About Me
 ---
 <img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 
@@ -22,7 +22,7 @@
 
 <!--My GitHub Statistics-->
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" > My Git Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" align="center"> My Git Stats
 ---
 <table align="center">
 <tr border="none">
@@ -42,7 +42,7 @@
 
 ---
 
-<h3 align="center">Frontend:</h3>
+<h3 align="center">Frontend</h3>
 <table align="center">
   <tr>
     <td align="center" style="background-color: #1572B6; padding: 10px; border-radius: 10px;">
@@ -73,7 +73,7 @@
   </tr>
 </table>
 
-<h3 align="center">Backend:</h3>
+<h3 align="center">Backend</h3>
 <table align="center">
   <tr>
     <td align="center" style="background-color: #007396; padding: 10px; border-radius: 10px;">
@@ -99,7 +99,7 @@
   </tr>
 </table>
 
-<h3 align="center">3D & Design Tools:</h3>
+<h3 align="center">3D & Design Tools</h3>
 <table align="center">
   <tr>
     <td align="center" style="background-color: #F5792A; padding: 10px; border-radius: 10px;">
@@ -135,10 +135,11 @@
   </tr>
 </table>
 
+<br><br>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/bashith"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="100" alt="bashith" /></a></p><br><br>
+<h3 align="center">Buy me a Coffee ☕</h3>
+<p align="center"><a href="https://www.buymeacoffee.com/bashith"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="100" width="140" alt="bashith" /></a></p>
 
----
+<hr>
 
 
