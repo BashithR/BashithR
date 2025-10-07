@@ -2,7 +2,7 @@
 
 <div align="center">
 <h1>Hi 👋, I'm Bashith Ratnaweera</h1>
-<h2>Fullstack Dev | UI/UX Designer</h2>
+<h2>Fullstack Dev | UI/UX Designer | Video Editor</h2>
 <h5>Blending design and code to build software solutions that resonates with the users and perform efficiently 🚀</h5>
 </div>
 
