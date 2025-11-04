@@ -1,7 +1,7 @@
 <!--Intro-->
 <h1 align="center">B&nbsp;&nbsp;A&nbsp;&nbsp;S&nbsp;&nbsp;H&nbsp;&nbsp;I&nbsp;&nbsp;T&nbsp;&nbsp;H</h1>
 <h4 align="center">Fullstack Dev | UI/UX Designer | Video Editor</h4>
-<h5>Blending design and code to build software solutions that resonates with the users and perform efficiently 🚀</h5>
+<h5 align="center">Anything is possible if you could imagine it!</h5>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bashithr&label=Profile%20views&color=0e75b6&style=flat" alt="bashithr" /> </p>
 
