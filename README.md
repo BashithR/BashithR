@@ -1,5 +1,5 @@
 <!--Intro-->
-<h1 align="center">B&nbsp;&nbsp;A&nbsp;&nbsp;S&nbsp;&nbsp;H&nbsp;&nbsp;I&nbsp;&nbsp;T&nbsp;&nbsp;H</h1>
+<h1 align="center">BASHITH RATNAWEERA</h1>
 <h4 align="center">Fullstack Dev | UI/UX Designer | Video Editor</h4>
 <h5 align="center">Anything is possible if you could imagine it!</h5>
 
