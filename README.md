@@ -15,7 +15,7 @@
 - 👨‍💻 I’m currently working on my **Portfolio** 🔥
 - 🔍 Looking for **internship opportunities**
 - ⏳ Fun fact: **I love video editing**
-- 📫 Reach Me **bashith3214@gmail.com**
+- 📫 Reach Me **bashith.contact@gmail.com**
 
 <!--My GitHub Statistics-->
 
