@@ -13,8 +13,7 @@
 - 🌱 I’m currently learning **OOP in Java**
 - 🏢 **Second Year CS Undergraduate** at University of Westminster (**IIT Sri Lanka**)
 - 👨‍💻 I’m currently working on my **Portfolio** 🔥
-- 🔍 Looking for **internship opportunities**
-- ⏳ Fun fact: **I love video editing**
+- **I love video editing**
 - 📫 Reach Me **bashith.contact@gmail.com**
 
 <!--My GitHub Statistics-->
